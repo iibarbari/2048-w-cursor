@@ -1,0 +1,20 @@
+{
+  "name": "2048-w-cursor",
+  "scripts": {
+    "dev": "expo start",
+    "build": "expo build",
+    "start": "expo start --no-dev"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~3.2.3",
+    "expo": "^51.0.31",
+    "react-dom": "18.2.0",
+    "react-native-awesome-alerts": "^2.0.0",
+    "react-native-gesture-handler": "~2.16.1",
+    "react-native-web": "~0.19.10",
+    "typescript": "~5.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "~18.2.14"
+  }
+}
