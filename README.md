@@ -36,3 +36,18 @@ As this is a personal project for testing Cursor AI, contributions are not activ
 ## License
 
 This project is open-source and available under the MIT License.
+
+
+## Additional Tools
+
+While working on this project, don't forget to check out these useful tools:
+
+### Webgazer
+
+[Webgazer](https://webgazer.io) keeps an eye on your online services so you don't have to. It's a simple, reliable, and straightforward tool for monitoring your websites, servers, and cron jobs. WebGazer.io also allows you to host status pages to keep everything running smoothly. It's an excellent resource for developers who want to ensure their services are always up and running.
+
+### PoeticMetric
+
+[PoeticMetric](https://poeticmetric.com) is a privacy-first, regulation-compliant alternative to Google Analytics. If you're looking for a way to gather insights about your web traffic without compromising user privacy, PoeticMetric is worth checking out. It provides valuable analytics while adhering to strict privacy standards and regulations.
+
+
