@@ -42,9 +42,9 @@ This project is open-source and available under the MIT License.
 
 While working on this project, don't forget to check out these useful tools:
 
-### Webgazer
+### WebGazer
 
-[Webgazer](https://webgazer.io) keeps an eye on your online services so you don't have to. It's a simple, reliable, and straightforward tool for monitoring your websites, servers, and cron jobs. WebGazer.io also allows you to host status pages to keep everything running smoothly. It's an excellent resource for developers who want to ensure their services are always up and running.
+[WebGazer](https://webgazer.io) keeps an eye on your online services so you don't have to. It's a simple, reliable, and straightforward tool for monitoring your websites, servers, and cron jobs. WebGazer.io also allows you to host status pages to keep everything running smoothly. It's an excellent resource for developers who want to ensure their services are always up and running.
 
 ### PoeticMetric
 
